@@ -7,17 +7,17 @@ body
 }
 .top
 {
-    background-image: url(image/Teknokrat_gedung.jpg);
+    background-image: url(image/gedung_tekno.jpeg);
     background-size: cover;
     height: 90vh;
-    opacity: 90%;
+    opacity: 80%;
     position: relative;
     width: 100%;
 }
 .menu img
 {
     float: left;
-    width: 90px;
+    width: 50px;
     padding-left: 30px;
 }
 .bghitam
@@ -34,7 +34,7 @@ body
 }
 .icon {
 	padding:1px;
-	background-color: grey;
+	background-color: steelblue;
     font-size: smaller;
 }
 .icon ul li {
@@ -58,7 +58,7 @@ body
 {
     text-decoration: none;
     cursor: pointer;
-    color:  aquamarine;
+    color:  red;
 }
 .menu ul li a:hover
 {
@@ -66,10 +66,11 @@ body
 }
 .text
 {
+    font-size: 10px;
     text-align: left;
     padding-right: 80px;
-    padding-top: 10px;
-    color: aqua;
+    padding-left: 85px;
+    color: red;
     font-weight: lighter;
 }
 .text h2
@@ -192,31 +193,29 @@ body
 .kontak
 {
     text-align: center;
-    margin-top: 50px;
     padding-bottom: 10px;
 }
 .kontak p
 {
     position: relative;
     text-align: center;
-    margin: 40px;
+    margin: 30px;
 }
 .lokasi
 {
-    padding-top: 50px;
+    padding-top: 5px;
 }
 .footer img
 {
     position: relative;
-    width: 250px;
-    height: 150px;
+    width: 180px;
+    height: 200px;
     
 }
-
 .footer
 {
 
-	background-color: grey;
+	background-color: steelblue;
 	color: #fff;
     width: 100%;
 }
